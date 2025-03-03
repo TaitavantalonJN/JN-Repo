@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 koodia
 enemmän koodia
+=======
+Uusi koodi
+enemmän uutta koodia
+>>>>>>> koodari
